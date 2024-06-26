@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas Vindas Ao Meu Perfil ❤️
 
-<!--
-**AlunoHugoTec-06/AlunoHugoTec-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome e Daniel Ferreira
 
-Here are some ideas to get you started:
+- Estou estudando na [alura] (https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou desenvolvendo na linguagem javascript
+- Utilizo esse espaço para minha organização e conpartilhação dos meus projetos desenvolvidos
+
+### Entre em contato comigo aqui em baixo 📫
+
+00001104906818sp@al.educacao.sp.gov.br
+
+@alunohugotec-06
+
+![morning-good-morning](https://github.com/AlunoHugoTec-06/AlunoHugoTec-06/assets/172675690/dc70600f-4f10-4546-a07a-e374d704d0ba)
